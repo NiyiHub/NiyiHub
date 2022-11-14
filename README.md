@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NiyiHub
+- 👋 Hi, I’m Niyi Black
 - 👀 I’m interested in python projects
 - 🌱 I’m currently learning PHP 
 - 💞️ I’m looking to collaborate on open source projects
