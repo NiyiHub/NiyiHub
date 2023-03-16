@@ -10,6 +10,7 @@ I'm a detailed-oriented and organized software engineer proficient with PYTHON p
 *   ✉️  You can contact me at [niyiblack@outlook.com](mailto:niyiblack@outlook.com)
 *   🧠  I'm learning DevOps
 *   🤝  I'm open to collaborating on Python projects, especially if it involves Django Framework but I'm also down to learn new things, so other frameworks are welcome as well.
+### Skills 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
@@ -23,4 +24,15 @@ I'm a detailed-oriented and organized software engineer proficient with PYTHON p
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
 </p>
                     
+ ### Socials
                   
+                  
+  <p align="left">
+                          
+<a href="https://www.github.com/NiyiHub" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+                          
+<a href="http://www.instagram.com/niyi_here" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
+                          
+<a href="https://www.linkedin.com/in/mustapha-olofa-857978105/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+                          
+<a href="https://www.twitter.com/niyiblack17" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
