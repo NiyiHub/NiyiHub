@@ -9,7 +9,7 @@ I'm a detailed-oriented and organized software engineer proficient with PYTHON p
 *   🌍  I'm based in Nigeria
 *   ✉️  You can contact me at [niyiblack@outlook.com](mailto:niyiblack@outlook.com)
 *   🧠  I'm learning DevOps
-*   🤝  I'm open to collaborating on Python projects, especially if it involves Django Framework but I'm also down to learn new things, so other frameworks are welcome as well.### Skills 
+*   🤝  I'm open to collaborating on Python projects, especially if it involves Django Framework but I'm also down to learn new things, so other frameworks are welcome as well.
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
